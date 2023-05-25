@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## My comments
+
+## Getting starter
+
+- Step 1: 
+    install cli, this as has to done once only per computer
+    command - npm install -g @angular/cli
+- Step 2:
+    create a new project
+    command - ng new APPNAME
